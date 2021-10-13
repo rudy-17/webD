@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?DOCTYPE note
+[
+<!ELEMENT note (STU-NAME,STU-BRANCH,STU-COLLEGE,STU-EMAIL)>
+<!ELEMENT STU-NAME (#PCDATA)>
+<!ELEMENT STU-BRANCH (#PCDATA)>
+<!ELEMENT STU-COLLEGE (#PCDATA)>
+<!ELEMENT STU-EMAIL (#PCDATA)>
+]?>
+<?xml-stylesheet type="text/xsl" href="Rules.xsl" ?>
+<CHRIST>
+<CS>
+<STU-NAME>S Rudresh</STU-NAME>
+<STU-BRANCH>CS</STU-BRANCH>
+<STU-COLLEGE> Christ University </STU-COLLEGE>
+<STU-EMAIL> rudresh17@gmail.com </STU-EMAIL>
+</CS>
+<CS>
+<STU-NAME> Dev Yadav </STU-NAME>
+<STU-BRANCH> Arts</STU-BRANCH>
+<STU-COLLEGE> SumaKheda college</STU-COLLEGE>
+<STU-EMAIL> devrach@gmail.com </STU-EMAIL>
+</CS>
+<CS>
+<STU-NAME> Krunal Lia</STU-NAME>
+<STU-BRANCH> CS</STU-BRANCH>
+<STU-COLLEGE> IIT Bombay</STU-COLLEGE>
+<STU-EMAIL> krunallia18@gmail.com </STU-EMAIL>
+</CS>
+<CS>
+<STU-NAME> Sharon Samuel</STU-NAME>
+<STU-BRANCH>Music</STU-BRANCH>
+<STU-COLLEGE> Jahrkhand University</STU-COLLEGE>
+<STU-EMAIL> sharon@gmail.com </STU-EMAIL>
+</CS>
+<CS>
+<STU-NAME>Pawan waldia</STU-NAME>
+<STU-BRANCH>Mechanical</STU-BRANCH>
+<STU-COLLEGE>IP University</STU-COLLEGE>
+<STU-EMAIL> fatguy@gmail.com</STU-EMAIL>
+</CS>
+<CS>
+<STU-NAME> Amber Linda</STU-NAME>
+<STU-BRANCH>Chemical</STU-BRANCH>
+<STU-COLLEGE>tiss</STU-COLLEGE>
+<STU-EMAIL>amberlindaujwal@gmail.com</STU-EMAIL>
+</CS>
+<CS>
+
+</CHRIST>
